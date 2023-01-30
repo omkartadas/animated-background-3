@@ -138,5 +138,3 @@ function animate() {
 
 init();
 animate();
-
-// Credit: https://www.youtube.com/watch?v=d620nV6bp0A&t=1051s
